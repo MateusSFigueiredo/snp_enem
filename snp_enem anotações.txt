@@ -3,3 +3,15 @@ Candidato 210056915009 (Afonso) tirou nota 959.7 em MT.
 Candidato 210055900260 (Bernardo) tirou nota 957.2 em MT.
 
 Afonso e Bernardo responderam exatamente as mesmas alternativas com exceção de uma. Na questão 2, Afonso respondeu A e Bernardo respondeu C. Essa diferença resultou em Afonso ter nota 2.5 pontos maior.
+
+-----------------------------------------
+
+Candidato 210054864156 (Carlos) tirou nota 981.7 em MT.
+ECDAB B BDCDECDBDCCCCBCECBAACDBAAACEBABDDEDAEBE foram suas respostas.
+
+Candidato 210054658434 (Daniela) tirou nota 981.7 em MT.
+ECDAB E BDCDECDBDCCCCBCECBAACDBAAACEBABDDEDAEBE foram suas respostas.
+
+ECDAB E BDCEECDBDCCCCBCXCBAACDBAAACEBABDDEDAEBE foi o gabarito. A questão 6 foi a única em que eles marcaram algo diferente.
+
+Carlos errou a questão 6. Daniela acertou a questão 6. Ambos tiveram a mesma nota.
